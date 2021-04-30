@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,&nbsp;Everyone!&fontAlign=65&fontAlignY=40&color=timeGradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,&nbsp;Everyone!&fontAlign=35&fontAlignY=40&color=timeGradient)
 
 # I'm Inhwan Wee
 
