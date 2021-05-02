@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 ## 🌱 Interests 🌱
 
 **Unmanned Aerial Vehicle, Aerial Robotics, Guidance, Navigation, Control <br>
-Multi-robot systems, Object Detection, Reinforcement Learning**
+Multi-robot systems, Object Detection, Reinforcement Learning<br>
+Mechanical, Electronics Design, Make Amazing Things**
   
 ## ⚡ Skills ⚡
 <p align="center">
