@@ -26,11 +26,11 @@ Here are some ideas to get you started:
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,&nbsp;Everyone!&fontAlign=35&fontAlignY=40&color=timeGradient)
 
-# I'm Inhwan Wee
+# I'm Inhwan Wee.
 
 ## Aerial Robotics Engineer
 
-## 🌱 Interest 🌱
+## 🌱 Interests 🌱
 
 **Unmanned Aerial Vehicle, Aerial Robotics, Guidance, Navigation, Control <br>
 Mutl-robot systems, Object Detection, Reinforcement Learning**
