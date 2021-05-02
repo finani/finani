@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # I'm Inhwan Wee.
 
-## Aerial Robotics Engineer
+## ✈️ Aerial Robotics Engineer ✈️
 
 ## 🌱 Interests 🌱
 
