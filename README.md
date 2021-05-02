@@ -97,10 +97,11 @@ Mutl-robot systems, Object Detection, Reinforcement Learning**
 
 <br>
 
+<!--
 ## 📌 Pinned repos 📌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finani&repo=offboard_drone&theme=react)](https://github.com/engcang/vins-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finani&repo=WeeBee&theme=react)](https://github.com/engcang/ros-yolo-sort)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finani&repo=BME280_I2C_JETSON_NX&theme=react)](https://github.com/engcang/utility_codes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finani&repo=Arduino_ICM20689&theme=react)](https://github.com/engcang/mavros-gazebo-application)
-
+-->
 </div>
