@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 🌱 Interests 🌱
 
 **Unmanned Aerial Vehicle, Aerial Robotics, Guidance, Navigation, Control <br>
-Mutl-robot systems, Object Detection, Reinforcement Learning**
+Multi-robot systems, Object Detection, Reinforcement Learning**
   
 ## ⚡ Skills ⚡
 <p align="center">
