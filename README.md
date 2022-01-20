@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 **Unmanned Aerial Vehicle, Aerial Robotics, Guidance, Navigation, Control <br>
 Multi-robot systems, Object Detection, Reinforcement Learning<br>
-Mechanical, Electronics Design, Make Amazing Things**
+Mechanical, Electronics Design, *Make Amazing Things***
   
 ## ⚡ Skills ⚡
 <p align="center">
@@ -45,8 +45,7 @@ Mechanical, Electronics Design, Make Amazing Things**
   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -70,7 +69,8 @@ Mechanical, Electronics Design, Make Amazing Things**
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
@@ -87,13 +87,13 @@ Mechanical, Electronics Design, Make Amazing Things**
 ## 🛠 Tools 🛠
 <p align="center">
   <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android&nbsp;Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unreal&nbsp;Engine-313131?style=flat-square&logo=Unreal-Engine&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apple&nbsp;Arcade-000000?style=flat-square&logo=Apple-Arcade&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/LabVIEW-FFD800?style=flat-square&logo=LabVIEW&logoColor=black"/></a>&nbsp
   <br>
