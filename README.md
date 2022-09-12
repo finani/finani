@@ -49,12 +49,13 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Fusion360-dc8430?style=flat-square&logo=Fusion360&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Adobe&nbsp;Premiere&nbsp;Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Raspberry&nbsp;Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
