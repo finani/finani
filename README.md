@@ -85,7 +85,7 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
 <p align="center">
   <!-- a href="https://engcang.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp -->
   <a href="https://www.youtube.com/channel/UC0NQ_49jBMDLZrsvvi2J9zA"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
-  <!-- a href="https://www.linkedin.com/in/inhwan-wee-6613711a6/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp -->
+  <a href="https://www.linkedin.com/in/inhwan-wee/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
   <a href="mailto:inhwan.wee@nearthlab.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://scholar.google.com/citations?user=Ifn-negAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>&nbsp
 </p>
