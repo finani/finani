@@ -41,6 +41,7 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
@@ -57,7 +58,6 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   <br>
   <img src="https://img.shields.io/badge/Fusion360-dc8430?style=flat-square&logo=Fusion360&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Adobe&nbsp;Premiere&nbsp;Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Raspberry&nbsp;Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
 </p>
@@ -66,13 +66,14 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
 <p align="center">
   <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android&nbsp;Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android&nbsp;Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/LabVIEW-FFD800?style=flat-square&logo=LabVIEW&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Adobe&nbsp;Premiere&nbsp;Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft&nbsp;Word-2B579A?style=flat-square&logo=Microsoft-Word&logoColor=white"/></a>&nbsp
