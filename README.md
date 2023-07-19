@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ## 🌱 Interests 🌱
 
-**Robotics, OOP, System Design, Guidance, Navigation, Control <br>
-Multi-robot systems, Object Detection, Segmentaion, Reinforcement Learning<br>
+**Robotics, Software Architecture, System Design, Guidance, Navigation, Control <br>
+Multi-robot systems, Object Detection, Segmentation, Reinforcement Learning<br>
 Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   
 ## ⚡ Skills ⚡
@@ -42,6 +42,7 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
@@ -56,6 +57,7 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/SolidWorks-e31818?style=flat-square&logo=DassaultSystemes&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Fusion360-dc8430?style=flat-square&logo=Fusion360&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Raspberry&nbsp;Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a>&nbsp
@@ -70,6 +72,7 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/LabVIEW-FFD800?style=flat-square&logo=LabVIEW&logoColor=black"/></a>&nbsp
@@ -87,7 +90,7 @@ Mechanical, Electronics Design, Web/App, *Make Amazing Things***
   <!-- a href="https://engcang.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp -->
   <a href="https://www.youtube.com/channel/UC0NQ_49jBMDLZrsvvi2J9zA"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
   <a href="https://www.linkedin.com/in/inhwan-wee/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
-  <a href="mailto:inhwan.wee@nearthlab.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="mailto:inhwan.wee@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://scholar.google.com/citations?user=Ifn-negAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>&nbsp
 </p>
 
